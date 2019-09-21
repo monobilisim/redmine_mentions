@@ -3,6 +3,8 @@ Redmine Mentions
 
 Allows users to mention team members in their notes/comments.
 
+This is a Redmine 4.0 compatible fork of https://github.com/arkhitech/redmine_mentions.
+
 Functionality
 ==============
 In editing an issue, user can mention his/her colleagues username that are part of the project from the drop down list, 
